@@ -2,7 +2,7 @@
 
 A Recurrent Neural Network (RNN) to generate a new Simpsons TV script for a scene at Moe's Tavern using part of the Simpsons dataset of scripts from 27 seasons
 
-Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Generate-TV-Scripts)
+Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Deep-Learning-Projects/tree/master/Project%203%20(Generate%20TV%20Scripts))
 
 The project has been hosted on [Github](https://madhur-taneja.github.io/Generate-TV-Scripts/dlnd_tv_script_generation.html)
 
