@@ -4,7 +4,7 @@
 
 An agent built using a reinforcement learning algorithm to train and fly a quadcopter. The project implements Deep Deterministic Policy Gradients (DDPG) algorithm.
 
-Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/RL-Quadcopter-2)
+Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Deep-Learning-Projects/tree/master/Project%205%20(RL%20Quadcopter%202))
 
 The project is also hosted on [GitHub](https://madhur-taneja.github.io/RL-Quadcopter-2/Quadcopter_Project.html)
 
