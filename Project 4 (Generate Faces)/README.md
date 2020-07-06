@@ -2,7 +2,7 @@
 
 A Generative Adversarial Network (GAN) to generate new images of faces from the MNIST and CelebA Dataset
 
-Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Generate-Faces)
+Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Deep-Learning-Projects/tree/master/Project%204%20(Generate%20Faces))
 
 The project has been hosted on [Github](https://madhur-taneja.github.io/Generate-Faces/dlnd_face_generation.html)
 
