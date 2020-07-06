@@ -3,7 +3,7 @@
 
 A neural network built from scratch to carry out a prediction problem on a real dataset to predict how many bikes a business would need according to the historical data so that it doesn't lose out money from potential riders by having too few bikes and also doesn't waste money on bikes that are just sitting around by having too many.
 
-Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Predicting-Bike-Sharing-Data).
+Open and view the Project using the `.zip` file provided or at my [Github Repository](https://github.com/madhur-taneja/Deep-Learning-Projects/tree/master/Project%201%20(Predicting%20Bike%20Sharing%20Data)).
 
 The project is also hosted on [Github](https://madhur-taneja.github.io/Predicting-Bike-Sharing-Data/Your_first_neural_network).
 
