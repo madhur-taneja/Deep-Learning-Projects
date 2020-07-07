@@ -17,6 +17,7 @@ This Repository contains my deep learning projects which were a part of the ** D
 * [Projects](#projects)
 * [Tools](#tools)
 * [Author](#author)
+* [Certificate](#certificate)
 
 ## Repo
 
@@ -57,3 +58,7 @@ The following is a list of tools used thoroughout the Front End Nanodegree.
 
 * [LinkedIn](https://www.linkedin.com/in/madhur-taneja/)
 * [GitHub](https://github.com/madhur-taneja)
+
+## Certificate
+
+![Nanodegree Graduation Certificate](Nd-Grad-Cert.jpg)
