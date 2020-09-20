@@ -1,15 +1,12 @@
 # Deep Learning Projects
 
-[![Environment](https://img.shields.io/badge/Environment----black)]()
 [![Anaconda](https://img.shields.io/badge/anaconda-v5.1.0-3eb049)]()
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter--notebook-v5.4.0-e46e2e)]()
 [![Python](https://img.shields.io/badge/python-v3.5.5-306998)]()
-|
-[![Libraries](https://img.shields.io/badge/Libraries----black)]()
 [![Tensorflow](https://img.shields.io/badge/tensorflow-v1.0.0-ff6f00)]()
 [![Keras](https://img.shields.io/badge/keras-v2.0.2-d10000)]()
 
-This Repository contains my deep learning projects which were a part of the ** Deep Learning Foundation Nanodegree Program (DLND) ** by Udacity. The main concepts used were Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Network (RNNs), Generative Adversarial Network (GANs) and Deep Reinforcement Learning.
+This Repository contains my deep learning projects which were a part of the **Deep Learning Foundation Nanodegree Program (DLND)** by Udacity. The main concepts used were Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Network (RNNs), Generative Adversarial Network (GANs) and Deep Reinforcement Learning.
 
 ## Table of Contents
 
@@ -24,7 +21,7 @@ This Repository contains my deep learning projects which were a part of the ** D
 Inside the repo you'll find the following folders used to organize projects of DLND. Each folder contains the corresponding subfolders and files of that project along with a `README.md` for more info and description about that particular project. 
 
 ```
-Front-End Projects/
+Deep-Learning Projects/
 └──├── Project 1 (Predicting Bike Sharing Data)
    ├── Project 2 (Dog Breed Classifier)
    ├── Project 3 (Generate TV Scripts)
@@ -36,7 +33,7 @@ Front-End Projects/
 
 ## Projects
 
-The following is a list of current projects required to complete the Front End Nanodegree along with the starter codes if it's provided by Udacity.
+The following is a list of current projects required to complete the Deep Learning Nanodegree along with the starter codes thats provided by Udacity:
 
 1. [Predicting Bike Sharing Data](https://github.com/udacity/deep-learning/tree/master/first-neural-network)
 2. [Dog Breed Classifier](https://github.com/udacity/dog-project)
@@ -46,7 +43,7 @@ The following is a list of current projects required to complete the Front End N
 
 ## Tools
 
-The following is a list of tools used thoroughout the Front End Nanodegree.
+The following is a list of tools used thoroughout the Deep Learning Nanodegree:
 
 * [Anaconda](https://www.anaconda.com/products/individual) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 * [Jupyter Notebook](https://jupyter.org/install)
